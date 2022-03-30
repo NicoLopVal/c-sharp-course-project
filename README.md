@@ -2,6 +2,6 @@
 
 Hola team,
 
-Descargan las clases y las abren en Visual Studio.
+Descargan las clases, las ponen en una misma carpeta y las abren en Visual Studio.
 
 Cualquier cosa me cuentan.
