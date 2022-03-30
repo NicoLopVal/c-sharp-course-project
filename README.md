@@ -2,6 +2,6 @@
 
 Hola team,
 
-Descargan el zip, lo descomprimen y ahí están los archivos de Visual Studio.
+Descargan las clases y las abren en Visual Studio.
 
 Cualquier cosa me cuentan.
